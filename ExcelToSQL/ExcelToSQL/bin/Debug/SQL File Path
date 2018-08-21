@@ -1,0 +1,4 @@
+CREATE TABLE MyNewTable(FirstName VARCHAR(8), LastName VARCHAR(5), Age INTEGER, Other DECIMAL(8, 4));
+INSERT INTO MyNewTable VALUES ('Benjamin', 'Lanza', 22, 31.234);
+INSERT INTO MyNewTable VALUES ('Samuel', 'Lanza', 20, 315.267);
+INSERT INTO MyNewTable VALUES ('Olivia', 'Lanza', 17, 1234.5678);

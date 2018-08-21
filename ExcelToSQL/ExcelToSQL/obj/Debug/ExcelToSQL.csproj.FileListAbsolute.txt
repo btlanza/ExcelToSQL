@@ -1,0 +1,14 @@
+C:\Users\btlan\source\repos\ExcelToSQL\ExcelToSQL\bin\Debug\ExcelToSQL.exe.config
+C:\Users\btlan\source\repos\ExcelToSQL\ExcelToSQL\bin\Debug\ExcelToSQL.exe
+C:\Users\btlan\source\repos\ExcelToSQL\ExcelToSQL\bin\Debug\ExcelToSQL.pdb
+C:\Users\btlan\source\repos\ExcelToSQL\ExcelToSQL\obj\Debug\ExcelToSQL.MainForm.resources
+C:\Users\btlan\source\repos\ExcelToSQL\ExcelToSQL\obj\Debug\ExcelToSQL.Properties.Resources.resources
+C:\Users\btlan\source\repos\ExcelToSQL\ExcelToSQL\obj\Debug\ExcelToSQL.csproj.GenerateResource.cache
+C:\Users\btlan\source\repos\ExcelToSQL\ExcelToSQL\obj\Debug\ExcelToSQL.csproj.CoreCompileInputs.cache
+C:\Users\btlan\source\repos\ExcelToSQL\ExcelToSQL\obj\Debug\ExcelToSQL.exe
+C:\Users\btlan\source\repos\ExcelToSQL\ExcelToSQL\obj\Debug\ExcelToSQL.pdb
+C:\Users\btlan\source\repos\ExcelToSQL\ExcelToSQL\obj\Debug\ExcelToSQL.AdvancedAttributeForm.resources
+C:\Users\btlan\source\repos\ExcelToSQL\ExcelToSQL\obj\Debug\ExcelToSQL.PrimaryKeyForm.resources
+C:\Users\btlan\source\repos\ExcelToSQL\ExcelToSQL\obj\Debug\ExcelToSQL.csprojAssemblyReference.cache
+C:\Users\btlan\source\repos\ExcelToSQL\ExcelToSQL\bin\Debug\ExcelToSQL.exe.CodeAnalysisLog.xml
+C:\Users\btlan\source\repos\ExcelToSQL\ExcelToSQL\bin\Debug\ExcelToSQL.exe.lastcodeanalysissucceeded
